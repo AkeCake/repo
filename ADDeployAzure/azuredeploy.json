@@ -62,7 +62,7 @@
         "adLBBE": "LBBE1",
         "adRDPNAT": "adRDP1",
         "adNicName": "adNic1",
-        "adNicIPAddress": "10.0.0.4",
+        "adNicIPAddress": "10.2.1.4",
         "adVMName": "adVM1",
         "adSubnetName": "adSubnet1",
         "adSubnetAddressPrefix": "10.2.1.0/24",
